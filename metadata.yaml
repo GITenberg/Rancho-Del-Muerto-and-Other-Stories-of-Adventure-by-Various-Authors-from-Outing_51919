@@ -1,0 +1,36 @@
+_repo: Rancho-Del-Muerto-and-Other-Stories-of-Adventure-by-Various-Authors-from-Outing_51919
+_version: 0.0.1
+creator:
+  author:
+    agent_name: King, Charles
+    birthdate: 1844
+    deathdate: 1933
+    gutenberg_agent_id: '6787'
+    url: http://www.gutenberg.org/2009/agents/6787
+description: ''
+gutenberg_issued: '2016-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51919'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Hunting stories'
+- GITenberg
+tableOfContents: Rancho del muerto / Charles King -- A mighty hunter before the Lord
+  / Virginius Dabney -- A Cohutta Valley shooting match / Will N. Harben -- Moeran's
+  moose / Ed. W. Sandys -- The mystery of a Christmas hunt / Talbot Torrance -- Herne
+  the hunter / William Perry Brown -- Uncle Duke's "B'ar" story / Lillian Gilfillan
+  -- A cigarette from Carconto / Edward French -- Antaeus / Frank M. Bicknell -- Which
+  Miss Charteris? / C.G. Rodgers -- The bear's-head brooch / Ernest Ingersoll -- Miss
+  Gwynne's burglar / Violet E. Mitchell -- The lady in rouge / W.E.P. French -- The
+  breaking of winter / Patience Stapleton -- Cynthy's Joe / Clara Sprague Ross.
+title: "Rancho Del Muerto, and Other Stories of Adventure\r\nby Various Authors, from\
+  \ \"Outing\""
+url: http://www.gutenberg.org/ebooks/51919
